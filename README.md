@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/07/18
+### Updated: 08/08/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -86,14 +86,12 @@ Library of references, documentation, setup guides and other resources.
 
 File Name | Description
 :---------|:-------------
-`coursePolicy.pdf` | SY201 Course Policy
-`collaborationPolicy.pdf` | SY201 Collaboration Policy
-`vm-v2-0-p1.pdf` | (Guide 1) Step-by-step guide to installing VM Workstation Player for Windows and creating an Ubuntu Linux Virtual Machine.
-`vm-v2-0-p2.pdf` | (Guide 2) Step-by-step guide to setting up a shared folder between your Windows machine and a hosted Ubuntu Linux VM.
-`encryption-v2-0.pdf` | (Guide 3) Step-by-step guide for setting up Public Key Encryption in Linux to create, manage and use public / private keys.
-`python3-methods.pdf` | A helpful reference of commonly used Python 3 methods.
-`asymmetric_encryption.pdf` | A quick overview of Public Key Encryption and Certificate Signing.
+`coursePolicy.pdf` | SY201 Course Policy.
+`collaborationPolicy.pdf` | SY201 Collaboration Policy.
 `section_leader.pdf` | Duties of the Section Leader / Assistant Section Leader.
+`python3-methods.pdf` | A helpful reference of commonly used Python 3 methods.
+`cmdlineRef.pdf` | A quick reference for Linux terminal commands.
+`asymmetric_encryption.pdf` | A quick overview of Public Key Encryption and Certificate Signing.
 
 [Contents](#top)
 
