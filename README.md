@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/08/18
+### Updated: 08/09/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -43,15 +43,15 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Readings<p>
 
-	None
+	By Wed 22 Aug, read *Liang*, Chapter 1.  You can stop on p 21 (no need to read section 1.9 - Graphics Programming)
 	
 - Assignments<p>
  
-	None
+	By Tue, 21 Aug, complete the SY201 *Learning Contract Quiz*.  This will count toward your programming assignments grade.  I'll provide the link to you by e-mail.
 	
 - Extra Activities<p>
 
-	None<p>
+	Before class on Tue, 21 Aug, attempt Part-2 of the Installation Instructions (available on the course portal).  If you have trouble, let me know during our lab period.<p>
 
 <hr>
 
@@ -82,10 +82,11 @@ Directory_Name | Title | Topic
 <a name="referenceLib"></a>
 #### *referenceLib*
 
-Library of references, documentation, setup guides and other resources.
+Library of references, documentation, and other resources.
 
 File Name | Description
 :---------|:-------------
+`syllabus.pdf` | SY201 Course Syllabus.
 `coursePolicy.pdf` | SY201 Course Policy.
 `collaborationPolicy.pdf` | SY201 Collaboration Policy.
 `section_leader.pdf` | Duties of the Section Leader / Assistant Section Leader.
