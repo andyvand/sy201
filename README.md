@@ -23,12 +23,12 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/09/18
+### Updated: 08/11/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
 
-[upnext](#upnext) | [classwork](#classwork) | [labs](#labs) | [referenceLib](#referenceLib) | [codeSamples](#codeSamples) | [tools](#tools)
+[upnext](#upnext) | [classwork](#classwork) | [programming](#programming) | [referenceLib](#referenceLib) | [codeSamples](#codeSamples) | [tools](#tools)
 
 <a name="upnext"></a>
 #### *upnext*
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	Before class on Tue, 21 Aug, attempt Part-2 of the Installation Instructions (available on the course portal).  If you have trouble, let me know during our lab period.<p>
+	Before class on Tue, 21 Aug, work on  Part-2 of the Installation Instructions (available on the course portal).  If you have trouble, let me know during our lab period.<p>
 
 <hr>
 
@@ -64,18 +64,18 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-08/20/18 | `cw00` |Welcome and Course Introduction
+08/20/18 | `cw00` |Welcome and Course Introduction.  My PowerPoint slides from the course introduction are available here.
 
 [Contents](#top)
 
-<a name="labs"></a>
-#### *labs*
+<a name="programming"></a>
+#### *programming*
 
-Handouts, stubbed code files, etc., used for labs.  Subdirectories may be added for individual assignments.
+Handouts, stubbed code files, etc., used for your Programming Assignments.  Subdirectories will be added for individual assignments.
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
-`tbd` | TBD | <hr>
+`pa01` | TBD | <hr>
 
 [Contents](#top)
 
@@ -91,8 +91,8 @@ File Name | Description
 `collaborationPolicy.pdf` | SY201 Collaboration Policy.
 `section_leader.pdf` | Duties of the Section Leader / Assistant Section Leader.
 `python3-methods.pdf` | A helpful reference of commonly used Python 3 methods.
-`cmdlineRef.pdf` | A quick reference for Linux terminal commands.
-`asymmetric_encryption.pdf` | A quick overview of Public Key Encryption and Certificate Signing.
+`cmdlineRef.pdf` | A reference for Linux terminal commands.
+`asymmetric_encryption.pdf` | An overview of Public Key Encryption and Certificate Signing.
 
 [Contents](#top)
 
