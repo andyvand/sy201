@@ -14,7 +14,7 @@
 
 # Author: Peter Nardi
 # Alpha: 844939
-# Assignment: Homework 1
+# Assignment: Lab 1
 # Date: 08/23/18
 # 
 # Description:

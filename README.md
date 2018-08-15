@@ -23,12 +23,12 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/11/18
+### Updated: 08/15/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
 
-[upnext](#upnext) | [classwork](#classwork) | [programming](#programming) | [referenceLib](#referenceLib) | [codeSamples](#codeSamples) | [tools](#tools)
+[upnext](#upnext) | [classwork](#classwork) | [labs](#labs) | [referenceLib](#referenceLib) | [codeSamples](#codeSamples) | [tools](#tools)
 
 <a name="upnext"></a>
 #### *upnext*
@@ -47,11 +47,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By Tue, 21 Aug, complete the SY201 *Learning Contract Quiz*.  This will count toward your programming assignments grade.  I'll provide the link to you by e-mail.
+	By Tue, 21 Aug, complete the SY201 *Learning Contract Quiz*.  This will count toward your Lab grade.  I'll provide the link to you by e-mail.
 	
 - Extra Activities<p>
 
-	Before class on Tue, 21 Aug, work on  Part-2 of the Installation Instructions (available on the course portal).  If you have trouble, let me know during our lab period.<p>
+	Before class on Tue, 21 Aug, work on  Part-2 of the Installation Instructions (available on the course portal).  If you have trouble, let me know during our lab period on Tuesday.<p>
 
 <hr>
 
@@ -68,14 +68,15 @@ Class_Meeting | Name | Topic
 
 [Contents](#top)
 
-<a name="programming"></a>
-#### *programming*
+<a name="labs"></a>
+#### *labs*
 
 Handouts, stubbed code files, etc., used for your Programming Assignments.  Subdirectories will be added for individual assignments.
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
-`pa01` | TBD | <hr>
+`lab01` | TBD | <hr>
+`lab00` | Learning Contract Quiz | This is a placeholder for the learning contract quiz.
 
 [Contents](#top)
 
