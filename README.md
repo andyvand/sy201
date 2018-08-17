@@ -28,7 +28,7 @@ See the commit logs for a complete list of changes.
 
 ### Contents:
 
-[upnext](#upnext) | [classwork](#classwork) | [labs](#labs) | [referenceLib](#referenceLib) | [codeSamples](#codeSamples) | [tools](#tools)
+[upnext](#upnext) | [classwork](#classwork) | [programming](#programming) | [referenceLib](#referenceLib) | [codeSamples](#codeSamples) | [tools](#tools)
 
 <a name="upnext"></a>
 #### *upnext*
@@ -68,15 +68,14 @@ Class_Meeting | Name | Topic
 
 [Contents](#top)
 
-<a name="labs"></a>
-#### *labs*
+<a name="programming"></a>
+#### *programming*
 
 Handouts, stubbed code files, etc., used for your Programming Assignments.  Subdirectories will be added for individual assignments.
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
-`lab01` | TBD | <hr>
-`lab00` | Learning Contract Quiz | This is a placeholder for the learning contract quiz.
+`pa01` | TBD | <hr>
 
 [Contents](#top)
 
