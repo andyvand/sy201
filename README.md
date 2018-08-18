@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/15/18
+### Updated: 08/18/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -47,7 +47,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By Tue, 21 Aug, complete the SY201 *Learning Contract Quiz*.  This will count toward your Lab grade.  I'll provide the link to you by e-mail.
+	By Tue, 21 Aug, complete the *SY201 Learning Contract*.  I'll provide the link to you by e-mail.
 	
 - Extra Activities<p>
 
