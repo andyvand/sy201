@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/18/18
+### Updated: 08/20/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -64,7 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-08/20/18 | `cw00` |Welcome and Course Introduction.  My PowerPoint slides from the course introduction are available here.
+08/20/18 | `cw00` | Welcome and Course Introduction.  My PowerPoint slides from the course introduction are available here.
 
 [Contents](#top)
 
@@ -75,7 +75,7 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
-`pa01` | TBD | <hr>
+`pa01` | Calculations and Conversions | Your first programming assignment will introduce you to the Python environment.  You'll practice input, output and using arithmetic operators.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 
 [Contents](#top)
 
