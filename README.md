@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/20/18
+### Updated: 08/21/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -47,11 +47,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By Tue, 21 Aug, complete the *SY201 Learning Contract*.  I'll provide the link to you by e-mail.
+	By 2359 on Tue, 28 Aug, submit Programming Assignment 01 (`pa01`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 01 are available in the `programming/pa01` directory.
 	
 - Extra Activities<p>
 
-	Before class on Tue, 21 Aug, work on  Part-2 of the Installation Instructions (available on the course portal).  If you have trouble, let me know during our lab period on Tuesday.<p>
+	None<p>
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+08/21/18 | `cw01` | VM Tuneup and introduction to the python3 environment. This directory contains the code for our in-class demo `hello.py` and `calc.py`
 08/20/18 | `cw00` | Welcome and Course Introduction.  My PowerPoint slides from the course introduction are available here.
 
 [Contents](#top)
