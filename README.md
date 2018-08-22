@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/21/18
+### Updated: 08/22/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,15 +39,15 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None<p>
+	The weekly evening EI sessions in NI227 will start on Thur 23 Aug, at 1900.<p>
 
 - Readings<p>
 
-	By Wed 22 Aug, read *Liang*, Chapter 1.  You can stop on p 21 (no need to read section 1.9 - Graphics Programming)
+	By Fri 24 Aug, read *Liang*, sections 2.1 through 2.5.
 	
 - Assignments<p>
  
-	By 2359 on Tue, 28 Aug, submit Programming Assignment 01 (`pa01`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 01 are available in the `programming/pa01` directory.
+	By 2359 on Tue 28 Aug, submit Programming Assignment 01 (`pa01`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 01 are available in the `programming/pa01` directory.
 	
 - Extra Activities<p>
 
@@ -64,7 +64,8 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-08/21/18 | `cw01` | VM Tuneup and introduction to the python3 environment. This directory contains the code for our in-class demo `hello.py` and `calc.py`
+08/22/18 | `cw02` | *Liang* sections 2.1 through 2.5.  This directory includes the demo code for the area of a circle as well as a pdf version of my notes from the "Magic Board."
+08/21/18 | `cw01` | VM Tuneup and introduction to the python3 environment. This directory contains the code for our in-class demos `hello.py` and `calc.py`
 08/20/18 | `cw00` | Welcome and Course Introduction.  My PowerPoint slides from the course introduction are available here.
 
 [Contents](#top)

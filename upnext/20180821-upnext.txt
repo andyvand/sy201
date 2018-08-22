@@ -1,0 +1,15 @@
+Reminders
+
+None
+
+Readings
+
+By Wed 22 Aug, read Liang, Chapter 1. You can stop on p 21 (no need to read section 1.9 - Graphics Programming)
+
+Assignments
+
+By 2359 on Tue, 28 Aug, submit Programming Assignment 01 (pa01) into the Submitted Work folder in tcourt, in accordance with your instructor's directions. The materials for Programming Assignment 01 are available in the programming/pa01 directory.
+
+Extra Activities
+
+None
