@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/27/18
+### Updated: 08/28/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,15 +39,15 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	We're back in MI294 for our Lab tomorrow (08/28).<p>
+	We're back in NI227 for our class tomorrow (08/29).<p>
 
 - Readings<p>
 
-	None.
+	By Friday, 31 Aug, Read *Liang*, sections 5.1 through 5.3 (Loops)
 	
 - Assignments<p>
  
-	By 2359 on Tue 28 Aug, submit Programming Assignment 01 (`pa01`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 01 are available in the `programming/pa01` directory.
+	By 2359 on Tue 11 Sep, submit Programming Assignment 02 (`pa02`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 02 are available in the `programming/pa02` directory.
 	
 - Extra Activities<p>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+08/28/18 | `cw05` | Exception handling using `try...except`. Demo code includes: a sample of `try...except`, exception handling for the adult / drinking age program, and an introduction to string formatting using `.format()`.  A pdf copy of the *Exception Handling* slides is also included.
 08/27/18 | `cw04` | *Liang* sections 2.8, 2.9, 4.1 through 4.6, 4.11. More Boolean operations and a discussion of nested conditionals (`if...elif...else`).  Demo code includes: complex Boolean examples, nested conditionals using ages (adult / drinking age), and a simple ATM demo showing why the Python `eval()` function is risky, from a security standpoint.
 08/24/18 | `cw03` | *Liang* sections 2.8, 2.9, 4.1 through 4.6, 4.11.  Modulo operator (`%`), integer division (`//`), logical operators (`and`, `or`, `not`) and conditionals (`if...else`).  Demo code and Magic Board notes are included.
 08/22/18 | `cw02` | *Liang* sections 2.1 through 2.5.  This directory includes the demo code for the area of a circle as well as a pdf version of my notes from the "Magic Board."
@@ -79,6 +80,7 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
+`pa02` | Port Lookup | For this assignment, you'll develop a program that will allow the user to lookup information about a particular port number.  In addition to the techniques learned in `pa01`, this assignment gives you practice with nested conditionals.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 `pa01` | Calculations and Conversions | Your first programming assignment will introduce you to the Python environment.  You'll practice input, output and using arithmetic operators.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 
 [Contents](#top)
