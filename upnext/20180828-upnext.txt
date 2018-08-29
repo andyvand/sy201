@@ -1,0 +1,18 @@
+Reminders
+
+We're back in NI227 for our class tomorrow (08/29).
+
+Readings
+
+By Friday, 31 Aug, Read Liang, sections 5.1 through 5.3 (Loops)
+
+Assignments
+
+By 2359 on Tue 11 Sep, submit Programming Assignment 02 (pa02) into the
+Submitted Work folder in tcourt, in accordance with your instructor's
+directions. The materials for Programming Assignment 02 are available in the
+programming/pa02 directory.
+
+Extra Activities
+
+None

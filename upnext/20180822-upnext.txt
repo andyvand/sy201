@@ -8,7 +8,10 @@ By Fri 24 Aug, read Liang, sections 2.1 through 2.5.
 
 Assignments
 
-By 2359 on Tue 28 Aug, submit Programming Assignment 01 (pa01) into the Submitted Work folder in tcourt, in accordance with your instructor's directions. The materials for Programming Assignment 01 are available in the programming/pa01 directory.
+By 2359 on Tue 28 Aug, submit Programming Assignment 01 (pa01) into the
+Submitted Work folder in tcourt, in accordance with your instructor's
+directions. The materials for Programming Assignment 01 are available in the
+programming/pa01 directory.
 
 Extra Activities
 

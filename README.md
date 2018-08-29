@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/28/18
+### Updated: 08/29/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	We're back in NI227 for our class tomorrow (08/29).<p>
+	Evening EI will go as scheduled starting at 1900 in NI227 on Thrusday, 30 Aug.<p>
 
 - Readings<p>
 
@@ -47,7 +47,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By 2359 on Tue 11 Sep, submit Programming Assignment 02 (`pa02`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 02 are available in the `programming/pa02` directory.
+	By 2359, on Tue 11 Sep, submit Programming Assignment 02 (`pa02`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 02 are available in the `programming/pa02` directory.
 	
 - Extra Activities<p>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+08/29/18 | `cw06` | Advanced output formatting and loops. Demo code includes: samples of various format types and simple loops.  The Python formatting reference sheet is available in the `referenceLib` directory of the repo.
 08/28/18 | `cw05` | Exception handling using `try...except`. Demo code includes: a sample of `try...except`, exception handling for the adult / drinking age program, and an introduction to string formatting using `.format()`.  A pdf copy of the *Exception Handling* slides is also included.
 08/27/18 | `cw04` | *Liang* sections 2.8, 2.9, 4.1 through 4.6, 4.11. More Boolean operations and a discussion of nested conditionals (`if...elif...else`).  Demo code includes: complex Boolean examples, nested conditionals using ages (adult / drinking age), and a simple ATM demo showing why the Python `eval()` function is risky, from a security standpoint.
 08/24/18 | `cw03` | *Liang* sections 2.8, 2.9, 4.1 through 4.6, 4.11.  Modulo operator (`%`), integer division (`//`), logical operators (`and`, `or`, `not`) and conditionals (`if...else`).  Demo code and Magic Board notes are included.
@@ -99,6 +100,7 @@ File Name | Description
 `python3-methods.pdf` | A helpful reference of commonly used Python 3 methods.
 `cmdlineRef.pdf` | A reference for Linux terminal commands.
 `asymmetric_encryption.pdf` | An overview of Public Key Encryption and Certificate Signing.
+`pythonFormatting.pdf` | Reference sheet for formatted output in Python.
 
 [Contents](#top)
 
