@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 08/29/18
+### Updated: 08/31/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,15 +39,15 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	Evening EI will go as scheduled starting at 1900 in NI227 on Thrusday, 30 Aug.<p>
+	Tuesday, 04 Sep, is a Monday schedule.  We'll have our class in NI227.<p>
 
 - Readings<p>
 
-	By Friday, 31 Aug, Read *Liang*, sections 5.1 through 5.3 (Loops)
+	By Tuesday, 04 Sep, Read *Liang*, sections 5.5 through 5.6 (Nested Loops). I've placed the code for Checkpoint 5.11 (on p. 146) in `~/repo/classwork/cw08/nestedLoops-20180904.py`.  Copy the file from the repo to a location of your choosing.  It's a collection of loops and is setup so you can un-comment and run individual sections of code.  Before Tuesday try to manually predict the output of each loop in Checkpoint 5.11, then run the code to check your answers.
 	
 - Assignments<p>
  
-	By 2359, on Tue 11 Sep, submit Programming Assignment 02 (`pa02`) into the Submitted Work folder in tcourt, in accordance with your instructor's directions.  The materials for Programming Assignment 02 are available in the `programming/pa02` directory.
+	By 2359, on Tue 11 Sep, submit Programming Assignment 02 (`pa02`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 02 are available in the `programming/pa02` directory.
 	
 - Extra Activities<p>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+08/31/18 | `cw07` | More loops and conditionals. Demo code includes *for* loops using `range(a,b)` (which goes from `a` to `b - 1`) as well as ranging across a string (the *Hello World* example).  Sample code is also included for more complex *while* loops using exception handling, conditionals, user input, `break` statements and formatted output.
 08/29/18 | `cw06` | Advanced output formatting and loops. Demo code includes: samples of various format types and simple loops.  The Python formatting reference sheet is available in the `referenceLib` directory of the repo.
 08/28/18 | `cw05` | Exception handling using `try...except`. Demo code includes: a sample of `try...except`, exception handling for the adult / drinking age program, and an introduction to string formatting using `.format()`.  A pdf copy of the *Exception Handling* slides is also included.
 08/27/18 | `cw04` | *Liang* sections 2.8, 2.9, 4.1 through 4.6, 4.11. More Boolean operations and a discussion of nested conditionals (`if...elif...else`).  Demo code includes: complex Boolean examples, nested conditionals using ages (adult / drinking age), and a simple ATM demo showing why the Python `eval()` function is risky, from a security standpoint.
