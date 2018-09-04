@@ -1,0 +1,24 @@
+Reminders
+
+Tuesday, 04 Sep, is a Monday schedule. We'll have our class in NI227.
+
+Readings
+
+By Tuesday, 04 Sep, Read Liang, sections 5.5 through 5.6 (Nested Loops). I've
+placed the code for Checkpoint 5.11 (on p. 146) in
+~/repo/classwork/cw08/nestedLoops-20180904.py. Copy the file from the repo to a
+location of your choosing. It's a collection of loops and is setup so you can
+un-comment and run individual sections of code. Before Tuesday try to manually
+predict the output of each loop in Checkpoint 5.11, then run the code to check
+your answers.
+
+Assignments
+
+By 2359, on Tue 11 Sep, submit Programming Assignment 02 (pa02) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 02 are available in the
+programming/pa02 directory.
+
+Extra Activities
+
+None

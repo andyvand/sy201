@@ -56,5 +56,5 @@
 #    for j in range(1,i+1):
 #       print(num,end = "G")
 #       num = num + 2
-#    print()
+#    print() # Prints a new line
 #    i += 1
