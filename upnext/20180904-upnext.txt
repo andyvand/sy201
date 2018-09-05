@@ -1,0 +1,19 @@
+Reminders
+
+None.
+
+Readings
+
+By Wednesday, 05 Sep, Read Liang, sections 5.7 through 5.8 (Nested Loops Case
+Studies). Take time to work through the case studies. Type in the code and get
+it to run. Section 5.7 deals with break and continue. These two looping control
+structures are a little tricky, but can be very powerful.
+
+Assignments
+
+By 2359, on Tue 11 Sep, submit Programming Assignment 02 (pa02) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 02 are available in the
+programming/pa02 directory.
+
+Extra Activities

@@ -4,7 +4,8 @@ None
 
 Readings
 
-By Wed 22 Aug, read Liang, Chapter 1. You can stop on p 21 (no need to read section 1.9 - Graphics Programming)
+By Wed 22 Aug, read Liang, Chapter 1. You can stop on p 21 (no need to read
+section 1.9 - Graphics Programming)
 
 Assignments
 

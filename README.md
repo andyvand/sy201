@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/04/18
+### Updated: 09/05/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -43,7 +43,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Readings<p>
 
-	By Wednesday, 05 Sep, Read *Liang*, sections 5.7 through 5.8 (Nested Loops Case Studies).  Take time to work through the case studies.  Type in the code and get it to run.  Section 5.7 deals with `break` and `continue`.  These two looping control structures are a little tricky, but can be very powerful.
+	None.
 	
 - Assignments<p>
  
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	None<p>
+	Keep working on the *Dice Rolling* program that we started in class on Wed, 5 Sep.<p>
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/05/18 | `cw09` | More Loops!  Today we spent most of the class period working on the *Dice Rolling* program.  The worksheet for that, as well as the executable version of the program, is available in `cw09`.
 09/04/18 | `cw08` | *Liang* sections 5.4 through 5.6. Nested Loops.  The code for Checkpoint 5.11 (on p. 146) is included and is setup so you can un-comment and run individual sections.  Also included is a worksheet (pdf) for Checkpoint 5.11 to help you keep track of the looping variables while you examine how they work.
 08/31/18 | `cw07` | More loops and conditionals. Demo code includes *for* loops using `range(a,b)` (which goes from `a` to `b - 1`) as well as ranging across a string (the *Hello World* example).  Sample code is also included for more complex *while* loops using exception handling, conditionals, user input, `break` statements, and formatted output.
 08/29/18 | `cw06` | Advanced output formatting and loops. Demo code includes: samples of various format types and simple loops.  The Python formatting reference sheet is available in the `referenceLib` directory of the repo.
