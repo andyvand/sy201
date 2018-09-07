@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/05/18
+### Updated: 09/07/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -43,7 +43,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Readings<p>
 
-	None.
+	By Monday, 10 Sep, Read *Liang* sections 13.1 through 13.2.
 	
 - Assignments<p>
  
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	Keep working on the *Dice Rolling* program that we started in class on Wed, 5 Sep.<p>
+	Keep working on the *Dice Rolling* program that we started in class on Wed, 5 Sep.  Also try complete the *Pick-4* program we started in class on Fri, 7 Sep.  The materials for those exercises are in the `cw` directories below (ordered by date).<p>
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/07/18 | `cw10` | Loops Review.  We discussed what to watch out for when using `sys.exit()` along with `try...except`.  The example we used for this is called `try.py`.  We also worked on an imaginary Lottery game called `Pick-4`.  All files used in this class are in `cw10`, inclding a pdf version of the worksheet for `Pick-4`.
 09/05/18 | `cw09` | More Loops!  Today we spent most of the class period working on the *Dice Rolling* program.  The worksheet for that, as well as the executable version of the program, is available in `cw09`.
 09/04/18 | `cw08` | *Liang* sections 5.4 through 5.6. Nested Loops.  The code for Checkpoint 5.11 (on p. 146) is included and is setup so you can un-comment and run individual sections.  Also included is a worksheet (pdf) for Checkpoint 5.11 to help you keep track of the looping variables while you examine how they work.
 08/31/18 | `cw07` | More loops and conditionals. Demo code includes *for* loops using `range(a,b)` (which goes from `a` to `b - 1`) as well as ranging across a string (the *Hello World* example).  Sample code is also included for more complex *while* loops using exception handling, conditionals, user input, `break` statements, and formatted output.
