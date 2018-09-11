@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/07/18
+### Updated: 09/10/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None.<p>
+	We're back in MI294 for our lab class tomorrow (09/11/18).<p>
 
 - Readings<p>
 
-	By Monday, 10 Sep, Read *Liang* sections 13.1 through 13.2.
+	None.
 	
 - Assignments<p>
  
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	Keep working on the *Dice Rolling* program that we started in class on Wed, 5 Sep.  Also try complete the *Pick-4* program we started in class on Fri, 7 Sep.  The materials for those exercises are in the `cw` directories below (ordered by date).<p>
+	See if you can create your own version of the histogram generator for the `gettysburg.txt` file.  The executable version I wrote and the `gettysburg.txt` file are both in the `cw11` directory.<p>
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/10/18 | `cw11` | *Liang* sections 13.1 through 13.2.  Introduction to File I/O (Input/Output).  Using the *Gettysburg Address* in a text file, we introduced opening files, reading and processing data, and closing files.  This directory includes an executable file called `histogram` that counts the frequency of the letters in the `gettysburg.txt` file (also included).
 09/07/18 | `cw10` | Loops Review.  We discussed what to watch out for when using `sys.exit()` along with `try...except`.  The example we used for this is called `try.py`.  We also worked on an imaginary Lottery game called `Pick-4`.  All files used in this class are in `cw10`, inclding a pdf version of the worksheet for `Pick-4`.
 09/05/18 | `cw09` | More Loops!  Today we spent most of the class period working on the *Dice Rolling* program.  The worksheet for that, as well as the executable version of the program, is available in `cw09`.
 09/04/18 | `cw08` | *Liang* sections 5.4 through 5.6. Nested Loops.  The code for Checkpoint 5.11 (on p. 146) is included and is setup so you can un-comment and run individual sections.  Also included is a worksheet (pdf) for Checkpoint 5.11 to help you keep track of the looping variables while you examine how they work.
@@ -85,6 +86,7 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
+`pa03` | Password Stretching | In this assignment you will create a program that performs password stretching; repeating a hashing algorithm a number of times to obfuscate a password. This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 `pa02` | Port Lookup | For this assignment, you'll develop a program that will allow the user to lookup information about a particular port number.  In addition to the techniques learned in `pa01`, this assignment gives you practice with nested conditionals.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 `pa01` | Calculations and Conversions | Your first programming assignment will introduce you to the Python environment.  You'll practice input, output and using arithmetic operators.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 

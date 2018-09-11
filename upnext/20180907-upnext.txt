@@ -1,0 +1,20 @@
+Reminders
+
+None.
+
+Readings
+
+By Monday, 10 Sep, Read Liang sections 13.1 through 13.2.
+
+Assignments
+
+By 2359, on Tue 11 Sep, submit Programming Assignment 02 (pa02) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 02 are available in the
+programming/pa02 directory.
+
+Extra Activities
+
+Keep working on the Dice Rolling program that we started in class on Wed, 5 Sep.
+Also try complete the Pick-4 program we started in class on Fri, 7 Sep. The
+materials for those exercises are in the cw directories below (ordered by date).
