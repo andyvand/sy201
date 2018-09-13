@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/11/18
+### Updated: 09/12/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	We're back in NI227 for our class tomorrow (09/12/18).<p>
+	Regular Thursday evening EI will run in NI227, as scheduled, after the Forrestal Lecture.<p>
 
 - Readings<p>
 
@@ -47,11 +47,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By 2359, on Tue 11 Sep, submit Programming Assignment 02 (`pa02`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 02 are available in the `programming/pa02` directory.
+	By 2359, on Tue 18 Sep, submit Programming Assignment 03 (`pa03`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 03 are available in the `programming/pa03` directory.
 	
 - Extra Activities<p>
 
-	Keep working on the histogram generator for the `gettysburg.txt` file.  The executable version I wrote and the `gettysburg.txt` file are both in the `cw11` directory.  Also see if you can crack the password file I gave you in `cw12`.<p>
+	I e-mailed an additional file of hashes to try against your password cracking program.  Keep pressing. You should complete (and be comfortable with) the *Dice Roller* (`cw09`), the *Pick-4 Lottery Program* (`cw10`), The *Gettysburg Address Histogram Generator* (`cw11`), and the *Password Cracker* (`cw12`).<p>
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/12/18 | `cw13` | In this class we continued work on the password cracking program.  The files for that project are in `cw12`.  This directory (`cw13`) is just a placeholder.
 09/11/18 | `cw12` | In this class we continued work on the histogram generator for the *Gettysburg Address*, and introduced `pa03` (Password Stretching).  We also introduced the concepts of salting, hashing and stretching.  My hashing slides are included in this folder, along with the template for the password cracker and the file of hashes.
 09/10/18 | `cw11` | *Liang* sections 13.1 through 13.2.  Introduction to File I/O (Input/Output).  Using the *Gettysburg Address* in a text file, we introduced opening files, reading and processing data, and closing files.  This directory includes an executable file called `histogram` that counts the frequency of the letters in the `gettysburg.txt` file (also included).
 09/07/18 | `cw10` | Loops Review.  We discussed what to watch out for when using `sys.exit()` along with `try...except`.  The example we used for this is called `try.py`.  We also worked on an imaginary Lottery game called `Pick-4`.  All files used in this class are in `cw10`, inclding a pdf version of the worksheet for `Pick-4`.

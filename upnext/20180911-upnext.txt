@@ -1,0 +1,20 @@
+Reminders
+
+We're back in NI227 for our class tomorrow (09/12/18).
+
+Readings
+
+None.
+
+Assignments
+
+By 2359, on Tue 11 Sep, submit Programming Assignment 02 (pa02) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 02 are available in the
+programming/pa02 directory.
+
+Extra Activities
+
+Keep working on the histogram generator for the gettysburg.txt file. The
+executable version I wrote and the gettysburg.txt file are both in the cw11
+directory. Also see if you can crack the password file I gave you in cw12.
