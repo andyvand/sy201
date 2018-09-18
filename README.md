@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/17/18
+### Updated: 09/18/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	We're back in MI294 tomorrow for Lab (Tue, 18 Sep).<p>
+	We're back in NI227 tomorrow for (Wed, 19 Sep).<p>
 
 - Readings<p>
 
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	None.<p>
+	I put a template code file in `cw16` to allow you to complete project we did in Lab for to scan the `/etc/passwd` file.  See if you can work through it.<p>
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/18/18 | `cw16` | *Liang*, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).  In this lab we continued advanced string processing techniques, and worked on a program to scan the `/etc/passwd` file, pull out certain fields, and print them to the screen using formatted output.  This directory contains a template source code file (`.py`).  It's mostly comments that are followed by this: `>> Your line of code here <<`.  If you follow the instructions in the comments and write each line of code specified, you should be able to complete the entire project.  Give it a try!  Also included in this directory is another Python file of advanced string handling techniques.
 09/17/18 | `cw15` | *Liang*, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).  In this class we started learning about advanced string processing techniques.  Sample code from our classwork today is included in this directory.
 09/14/18 | `cw14` | In this class we mapped-out the flow chart for completing `pa03`.  A .pdf copy of the flowchart is now available in `~/repo201/programming/pa03`.  This directory (`cw14`) is just a placeholder.
 09/12/18 | `cw13` | In this class we continued work on the password cracking program.  The files for that project are in `cw12`.  This directory (`cw13`) is just a placeholder.

@@ -1,0 +1,18 @@
+Reminders
+
+We're back in MI294 tomorrow for Lab (Tue, 18 Sep).
+
+Readings
+
+Read Liang, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).
+
+Assignments
+
+By 2359, on Tue 18 Sep, submit Programming Assignment 03 (pa03) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 03 are available in the
+programming/pa03 directory.
+
+Extra Activities
+
+None.
