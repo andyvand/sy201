@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/14/18
+### Updated: 09/17/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None.<p>
+	We're back in MI294 tomorrow for Lab (Tue, 18 Sep).<p>
 
 - Readings<p>
 
-	None.
+	Read *Liang*, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).
 	
 - Assignments<p>
  
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	I e-mailed an additional file of hashes to try against your password cracking program.  Keep pressing. You should complete (and be comfortable with) the *Dice Roller* (`cw09`), the *Pick-4 Lottery Program* (`cw10`), The *Gettysburg Address Histogram Generator* (`cw11`), and the *Password Cracker* (`cw12`).<p>
+	None.<p>
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/17/18 | `cw15` | *Liang*, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).  In this class we started learning about advanced string processing techniques.  Sample code from our classwork today is included in this directory.
 09/14/18 | `cw14` | In this class we mapped-out the flow chart for completing `pa03`.  A .pdf copy of the flowchart is now available in `~/repo201/programming/pa03`.  This directory (`cw14`) is just a placeholder.
 09/12/18 | `cw13` | In this class we continued work on the password cracking program.  The files for that project are in `cw12`.  This directory (`cw13`) is just a placeholder.
 09/11/18 | `cw12` | In this class we continued work on the histogram generator for the *Gettysburg Address*, and introduced `pa03` (Password Stretching).  We also introduced the concepts of salting, hashing and stretching.  My hashing slides are included in this folder, along with the template for the password cracker and the file of hashes.
@@ -89,7 +90,8 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
-`pa03` | Password Stretching | In this assignment you will create a program that performs password stretching; repeating a hashing algorithm a number of times to obfuscate a password. This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
+`pa04` | Password Validation | In this assignment you will create a program that reads passwords from a file and determines if each one meets a minimum set of requirements for length and complexity.  The specifications for complexity are stored in a second (separate) file. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate.
+`pa03` | Password Stretching | In this assignment you will create a program that performs password stretching; repeating a hashing algorithm a number of times to obfuscate a password. This directory includes a .pdf of the assignment, a .pdf of a high-level flowchart, and an executable version of the finished program so you can see how it's supposed to operate.
 `pa02` | Port Lookup | For this assignment, you'll develop a program that will allow the user to lookup information about a particular port number.  In addition to the techniques learned in `pa01`, this assignment gives you practice with nested conditionals.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 `pa01` | Calculations and Conversions | Your first programming assignment will introduce you to the Python environment.  You'll practice input, output and using arithmetic operators.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 
