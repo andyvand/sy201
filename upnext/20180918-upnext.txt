@@ -1,0 +1,19 @@
+Reminders
+
+We're back in NI227 tomorrow for Wed, 19 Sep.
+
+Readings
+
+Read Liang, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).
+
+Assignments
+
+By 2359, on Tue 18 Sep, submit Programming Assignment 03 (pa03) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 03 are available in the
+programming/pa03 directory.
+
+Extra Activities
+
+I put a template code file in cw16 to allow you to complete the project we did
+in Lab for to scan the /etc/passwd file. See if you can work through it.
