@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	The regular evening EI session will be held in NI227 on 09/19/18, starting at 1900.<p>
+	The regular evening EI session will be held in NI227 on 09/20/18, starting at 1900.<p>
 
 - Readings<p>
 
