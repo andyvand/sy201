@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/19/18
+### Updated: 09/20/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	The regular evening EI session will be held in NI227 on 09/20/18, starting at 1900.<p>
+	An ASCII Chart is available in the referenceLib.<p>
 
 - Readings<p>
 
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	Continue working on the encrypted version of the *Gettysburg Address*.  The materials are in the `cw17` folder.<p>
+	The 6-week exam review packet is now posted in: `~/repo201/referenceLib/6wkExamReview.pdf`.<p>
 
 <hr>
 
@@ -64,16 +64,17 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/20/18 | `cw18` | 6-week exam review.  This directory is a placeholder.
 09/19/18 | `cw17` | In this class we started working on a program to decrypt a version of the *Gettysburg Address*.  All the files necessary (including a README file) are located in this directory.
 09/18/18 | `cw16` | *Liang*, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).  In this lab we continued advanced string processing techniques, and worked on a program to scan the `/etc/passwd` file; pull out certain fields; and print them to the screen using formatted output.  This directory contains a template source code file (`.py`).  It's mostly comments that are followed by this: `>> Your line of code here <<`.  If you follow the instructions in the comments and write each line of code specified, you should be able to complete the entire project.  Give it a try!  Also included in this directory is another Python file of advanced string handling techniques.
 09/17/18 | `cw15` | *Liang*, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).  In this class we started learning about advanced string processing techniques.  Sample code from our classwork today is included in this directory.
 09/14/18 | `cw14` | In this class we mapped-out the flow chart for completing `pa03`.  A .pdf copy of the flowchart is now available in `~/repo201/programming/pa03`.  This directory (`cw14`) is just a placeholder.
 09/12/18 | `cw13` | In this class we continued work on the password cracking program.  The files for that project are in `cw12`.  This directory (`cw13`) is just a placeholder.
-09/11/18 | `cw12` | In this class we continued work on the histogram generator for the *Gettysburg Address*, and introduced `pa03` (Password Stretching).  We also introduced the concepts of salting, hashing and stretching.  My hashing slides are included in this folder, along with the template for the password cracker and the file of hashes.
-09/10/18 | `cw11` | *Liang* sections 13.1 through 13.2.  Introduction to File I/O (Input/Output).  Using the *Gettysburg Address* in a text file, we introduced opening files, reading and processing data, and closing files.  This directory includes an executable file called `histogram` that counts the frequency of the letters in the `gettysburg.txt` file (also included).
-09/07/18 | `cw10` | Loops Review.  We discussed what to watch out for when using `sys.exit()` along with `try...except`.  The example we used for this is called `try.py`.  We also worked on an imaginary Lottery game called `Pick-4`.  All files used in this class are in `cw10`, inclding a pdf version of the worksheet for `Pick-4`.
-09/05/18 | `cw09` | More Loops!  Today we spent most of the class period working on the *Dice Rolling* program.  The worksheet for that, as well as the executable version of the program, is available in `cw09`.
-09/04/18 | `cw08` | *Liang* sections 5.4 through 5.6. Nested Loops.  The code for Checkpoint 5.11 (on p. 146) is included and is setup so you can un-comment and run individual sections.  Also included is a worksheet (pdf) for Checkpoint 5.11 to help you keep track of the looping variables while you examine how they work.
+09/11/18 | `cw12` | In this class we continued work on the histogram generator for the *Gettysburg Address*, and introduced `pa03` (Password Stretching).  We also introduced the concepts of salting, hashing and stretching.  My hashing slides are included in this folder, along with the template for the password cracker, a file of hashes, and a README file.
+09/10/18 | `cw11` | *Liang* sections 13.1 through 13.2.  Introduction to File I/O (Input/Output).  Using the *Gettysburg Address* in a text file, we introduced opening files, reading and processing data, and closing files.  This directory includes a README file and an executable file called `histogram` that counts the frequency of the letters in the `gettysburg.txt` file (also included).
+09/07/18 | `cw10` | Loops Review.  We discussed what to watch out for when using `sys.exit()` along with `try...except`.  The example we used for this is called `try.py`.  We also worked on an imaginary Lottery game called `Pick-4`.  All files used in this class are in `cw10`, inclding a README file for `Pick-4`.
+09/05/18 | `cw09` | More Loops!  Today we spent most of the class period working on the *Dice Rolling* program.  A README file and the executable version of the program are available in `cw09`.
+09/04/18 | `cw08` | *Liang* sections 5.4 through 5.6. Nested Loops.  The code for Checkpoint 5.11 (on p. 146) is included and is setup so you can un-comment and run individual sections.  Also included is a README file for Checkpoint 5.11 to help you keep track of the looping variables while you examine how they work.
 08/31/18 | `cw07` | More loops and conditionals. Demo code includes *for* loops using `range(a,b)` (which goes from `a` to `b - 1`) as well as ranging across a string (the *Hello World* example).  Sample code is also included for more complex *while* loops using exception handling, conditionals, user input, `break` statements, and formatted output.
 08/29/18 | `cw06` | Advanced output formatting and loops. Demo code includes: samples of various format types and simple loops.  The Python formatting reference sheet is available in the `referenceLib` directory of the repo.
 08/28/18 | `cw05` | Exception handling using `try...except`. Demo code includes: a sample of `try...except`, exception handling for the adult / drinking age program, and an introduction to string formatting using `.format()`.  A pdf copy of the *Exception Handling* slides is also included.
@@ -114,6 +115,8 @@ File Name | Description
 `cmdlineRef.pdf` | A reference for Linux terminal commands.
 `asymmetric_encryption.pdf` | An overview of Public Key Encryption and Certificate Signing.
 `pythonFormatting.pdf` | Reference sheet for formatted output in Python.
+`asciiChart.pdf` | ASCII Chart for the base (0 - 127) and extended (128 - 255) sets.
+`6wkExamReview.pdf` | Review packet for the 6-week exam.
 
 [Contents](#top)
 
