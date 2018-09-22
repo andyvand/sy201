@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/20/18
+### Updated: 09/21/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,9 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	An ASCII Chart is available in the referenceLib.<p>
+	- Our 6-week exam is coming up.  It will be held during our regular lab session on 25 September in MI294.
+	
+	- An ASCII Chart is available in the referenceLib.<p>
 
 - Readings<p>
 
