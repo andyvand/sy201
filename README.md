@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/21/18
+### Updated: 09/24/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -66,6 +66,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/24/18 | `cw19` | 6-week exam review (cont.).  This directory is a placeholder.
 09/21/18 | `cw18` | 6-week exam review.  This directory is a placeholder.
 09/19/18 | `cw17` | In this class we started working on a program to decrypt a version of the *Gettysburg Address*.  All the files necessary (including a README file) are located in this directory.
 09/18/18 | `cw16` | *Liang*, section 3.3 (p. 67 - 72); 8.1, 8.2 (p. 242 - 253).  In this lab we continued advanced string processing techniques, and worked on a program to scan the `/etc/passwd` file; pull out certain fields; and print them to the screen using formatted output.  This directory contains a template source code file (`.py`).  It's mostly comments that are followed by this: `>> Your line of code here <<`.  If you follow the instructions in the comments and write each line of code specified, you should be able to complete the entire project.  Give it a try!  Also included in this directory is another Python file of advanced string handling techniques.
