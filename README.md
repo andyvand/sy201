@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/24/18
+### Updated: 09/25/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,10 +39,8 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	- Our 6-week exam is coming up.  It will be held during our regular lab session on 25 September in MI294.
+	None.
 	
-	- An ASCII Chart is available in the referenceLib.<p>
-
 - Readings<p>
 
 	None.
@@ -53,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	The 6-week exam review packet is now posted in: `~/repo201/referenceLib/6wkExamReview.pdf`.<p>
+	None.<p>
 
 <hr>
 
@@ -66,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/25/18 | `cw20` | 6-week exam.  This directory is a placeholder.
 09/24/18 | `cw19` | 6-week exam review (cont.).  This directory is a placeholder.
 09/21/18 | `cw18` | 6-week exam review.  This directory is a placeholder.
 09/19/18 | `cw17` | In this class we started working on a program to decrypt a version of the *Gettysburg Address*.  All the files necessary (including a README file) are located in this directory.
