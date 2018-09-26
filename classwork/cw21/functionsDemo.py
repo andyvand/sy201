@@ -35,7 +35,7 @@
 # color in the parameter list?
 # 
 # def my_function(number, color = "red"):
-#   print("{0:d} {1:s} {0:d}".format(number,color,number))
+#   print("{0:d} {1:s} {0:d}".format(number,color))
 # 
 # my_function(1,"blue")
 # my_function(2,"yellow")
