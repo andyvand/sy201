@@ -64,7 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-09/26/18 | `cw21` | *Liang* section 6.1 – 6.5 (skip 6.3.1 *Call Stacks*).  Today we introduced functions.  Several example were provided and are included in this directory.  A pdf copy of the class handout is also included.
+09/26/18 | `cw21` | *Liang* section 6.1 – 6.5 (skip 6.3.1 *Call Stacks*).  Today we introduced functions.  Several examples were provided and are included in this directory.  A pdf copy of the class handout is also included.
 09/25/18 | `cw20` | 6-week exam.  This directory is a placeholder.
 09/24/18 | `cw19` | 6-week exam review (cont.).  This directory is a placeholder.
 09/21/18 | `cw18` | 6-week exam review.  This directory is a placeholder.
