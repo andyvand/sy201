@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/26/18
+### Updated: 09/28/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	Evening EI will go as scheduled tomorrow (09/27) in NI227, starting at 1900.
+	None.
 	
 - Readings<p>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+09/28/18 | `cw22` | Today we spent time discussing pa04.  An updated version of the executable program and more test case files are available in the `~/repo201/programming/pa04` directory in the repo (use `git pull`).  Note: Your program does not have to handle the special case when the user enters a period (`.`) or a slash (`/`) for the file name.  This directory is just a placeholder.
 09/26/18 | `cw21` | *Liang* section 6.1 – 6.5 (skip 6.3.1 *Call Stacks*).  Today we introduced functions.  Several examples were provided and are included in this directory.  A pdf copy of the class handout is also included.
 09/25/18 | `cw20` | 6-week exam.  This directory is a placeholder.
 09/24/18 | `cw19` | 6-week exam review (cont.).  This directory is a placeholder.
