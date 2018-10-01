@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 09/28/18
+### Updated: 10/01/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None.
+	We're in MI294 tomorrow (10/02).
 	
 - Readings<p>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/01/18 | `cw23` | Today we worked on building a general purpose function to prompt the user for a file name and return an open file handle based on a chosen mode (`"r"` or `"w"`).  This directory is just a placeholder.
 09/28/18 | `cw22` | Today we spent time discussing pa04.  An updated version of the executable program and more test case files are available in the `~/repo201/programming/pa04` directory in the repo (use `git pull`).  Note: Your program does not have to handle the special case when the user enters a period (`.`) or a slash (`/`) for the file name.  This directory is just a placeholder.
 09/26/18 | `cw21` | *Liang* section 6.1 – 6.5 (skip 6.3.1 *Call Stacks*).  Today we introduced functions.  Several examples were provided and are included in this directory.  A pdf copy of the class handout is also included.
 09/25/18 | `cw20` | 6-week exam.  This directory is a placeholder.
@@ -143,6 +144,7 @@ Tools, tips and other useful utilities for the course.
 
 Tool_Name | Purpose
 :---------| :------
+`utils` | This is a directory you can use as a template to create your own custom Python library functions.  The included filed (`__init__.py`) must remain in the directory when you use it.  Copy the directory to a location of your choosing using: `cp -R ~/repo201/tools/utils .` (where "`.`" is your current working directory).
 `bashrc.txt` | This bashrc file tunes up the look and behavior of your Linux terminal windows.  To install it, open a terminal window and type: <font face="Courier New"><h4>cp ~/repo201/tools/bashrc.txt ~/.bashrc</h4></font> If you receive a message asking to overwrite the existing `.bashrc` file, type "y", followed by return. Close and reopen any existing terminal windows and the changes will take effect.
 
 [Contents](#top)

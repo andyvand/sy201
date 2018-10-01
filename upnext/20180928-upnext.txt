@@ -1,0 +1,18 @@
+Reminders
+
+None.
+
+Readings
+
+Liang section 6.1 – 6.5 (skip 6.3.1 Call Stacks).
+
+Assignments
+
+By 2359, on Tue 02 Oct, submit Programming Assignment 04 (pa04) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 04 are available in the
+programming/pa04 directory.
+
+Extra Activities
+
+None.
