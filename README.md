@@ -39,15 +39,15 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	We're in MI294 tomorrow (10/02).
+	We're back in NI227 tomorrow (10/03).
 	
 - Readings<p>
 
-	*Liang* section 6.1 – 6.5 (skip 6.3.1 *Call Stacks*).
+	*Liang* section 6.9 – 6.10
 	
 - Assignments<p>
  
-	By 2359, on Tue 02 Oct, submit Programming Assignment 04 (`pa04`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 04 are available in the `programming/pa04` directory.
+	By 2359, on Tue 16 Oct, submit Programming Assignment 05 (`pa05`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 05 are available in the `repo201/programming/pa05` directory.
 	
 - Extra Activities<p>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/02/18 | `cw24` | Today we introduced Programming Assignment 05 (Caesar Cipher) and spent time working on Programming Assignment 04 (Password Validator).  This directory is just a placeholder.
 10/01/18 | `cw23` | Today we worked on building a general purpose function to prompt the user for a file name and return an open file handle based on a chosen mode (`"r"` or `"w"`).  This directory is just a placeholder.
 09/28/18 | `cw22` | Today we spent time discussing pa04.  An updated version of the executable program and more test case files are available in the `~/repo201/programming/pa04` directory in the repo (use `git pull`).  Note: Your program does not have to handle the special case when the user enters a period (`.`) or a slash (`/`) for the file name.  This directory is just a placeholder.
 09/26/18 | `cw21` | *Liang* section 6.1 – 6.5 (skip 6.3.1 *Call Stacks*).  Today we introduced functions.  Several examples were provided and are included in this directory.  A pdf copy of the class handout is also included.
@@ -98,6 +99,7 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
+`pa05` | Caesar Cipher | In this assignment you will create a program that encrypts and decrypts text files using a Caesar Cipher. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate and test your own code.
 `pa04` | Password Validation | In this assignment you will create a program that reads passwords from a file and determines if each one meets a minimum set of requirements for length and complexity.  The specifications for complexity are stored in a second (separate) file. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate and test your own code.
 `pa03` | Password Stretching | In this assignment you will create a program that performs password stretching; repeating a hashing algorithm a number of times to obfuscate a password. This directory includes a .pdf of the assignment, a .pdf of a high-level flowchart, and an executable version of the finished program so you can see how it's supposed to operate.
 `pa02` | Port Lookup | For this assignment, you'll develop a program that will allow the user to lookup information about a particular port number.  In addition to the techniques learned in `pa01`, this assignment gives you practice with nested conditionals.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
