@@ -1,0 +1,18 @@
+Reminders
+
+We're back in NI227 tomorrow (10/03).
+
+Readings
+
+Liang section 6.9 – 6.10
+
+Assignments
+
+By 2359, on Tue 16 Oct, submit Programming Assignment 05 (pa05) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 05 are available in the
+repo201/programming/pa05 directory.
+
+Extra Activities
+
+None.
