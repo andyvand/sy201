@@ -64,7 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-10/03/18 | `cw25` | Today's class was focused on a self-assessment exercise using File I/O and looping.  All the required files (including a `README.pdf`) are in this directory.
+10/03/18 | `cw25` | Today's class was focused on a self-assessment exercise using File I/O and looping.  All the required files (including a README file) are in this directory.
 10/02/18 | `cw24` | Today we introduced Programming Assignment 05 (Caesar Cipher) and spent time working on Programming Assignment 04 (Password Validator).  This directory is just a placeholder.
 10/01/18 | `cw23` | Today we worked on building a general purpose function to prompt the user for a file name and return an open file handle based on a chosen mode (`"r"` or `"w"`).  This directory is just a placeholder.
 09/28/18 | `cw22` | Today we spent time discussing pa04.  An updated version of the executable program and more test case files are available in the `~/repo201/programming/pa04` directory in the repo (use `git pull`).  Note: Your program does not have to handle the special case when the user enters a period (`.`) or a slash (`/`) for the file name.  This directory is just a placeholder.
