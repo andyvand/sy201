@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/03/18
+### Updated: 10/05/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	Evening EI will go as scheduled tomorrow (10/04) in NI227 starting at 1900.
+	Our next class meeting is lab in MI294 on Tuesday, 09 Oct.
 	
 - Readings<p>
 
-	None.
+	*Liang* 6-9 and 6-10 (Variable Scope); *Liang* 10.1 and 10.2 (Introduction to Python Lists).
 	
 - Assignments<p>
  
@@ -51,7 +51,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	I recommend you work on the lesson in `~/repo201/classwork/cw25` as well as the puzzle I sent via e-mail.<p>
+	Take time this weekend to complete three things:
+	
+	1.	Write and test your `getInt(prompt,lower,upper)` function for `pa05`.
+	2.	Read *Liang* 10.1 and 10.2 in preparation for Tuesday's Lab.
+	3. Work on the Star Wars puzzle I sent via e-mail.<p>
 
 <hr>
 
@@ -64,6 +68,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/05/18 | `cw26` | *Liang* 6-9 and 6-10 (Variable Scope); *Liang* 10.1 and 10.2 (Introduction to Python Lists). Today's class was focused on variable scope using an information sheet and several code samples.  The information sheet (README file) and code samples are in this directory.
 10/03/18 | `cw25` | Today's class was focused on a self-assessment exercise using File I/O and looping.  All the required files (including a README file) are in this directory.
 10/02/18 | `cw24` | Today we introduced Programming Assignment 05 (Caesar Cipher) and spent time working on Programming Assignment 04 (Password Validator).  This directory is just a placeholder.
 10/01/18 | `cw23` | Today we worked on building a general purpose function to prompt the user for a file name and return an open file handle based on a chosen mode (`"r"` or `"w"`).  This directory is just a placeholder.

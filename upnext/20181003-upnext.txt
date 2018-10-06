@@ -1,0 +1,19 @@
+Reminders
+
+Evening EI will go as scheduled tomorrow (10/04) in NI227 starting at 1900.
+
+Readings
+
+None.
+
+Assignments
+
+By 2359, on Tue 16 Oct, submit Programming Assignment 05 (pa05) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 05 are available in the
+repo201/programming/pa05 directory.
+
+Extra Activities
+
+I recommend you work on the lesson in ~/repo201/classwork/cw25 as well as the
+puzzle I sent via e-mail.
