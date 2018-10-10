@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/05/18
+### Updated: 10/09/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	Our next class meeting is lab in MI294 on Tuesday, 09 Oct.
+	Back in NI227 on Wednesday, 10 Oct.  We'll wrap class a little early so we can get to Mahan Hall for the Microsoft CEO lecture.
 	
 - Readings<p>
 
-	*Liang* 6-9 and 6-10 (Variable Scope); *Liang* 10.1 and 10.2 (Introduction to Python Lists).
+	*Liang* 10.1 and 10.2 (Introduction to Python Lists).
 	
 - Assignments<p>
  
@@ -51,11 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	Take time this weekend to complete three things:
-	
-	1.	Write and test your `getInt(prompt,lower,upper)` function for `pa05`.
-	2.	Read *Liang* 10.1 and 10.2 in preparation for Tuesday's Lab.
-	3. Work on the Star Wars puzzle I sent via e-mail.<p>
+	None.
 
 <hr>
 
@@ -68,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/09/18 | `cw27` | *Liang* 10.1 and 10.2 (Introduction to Python Lists). Today's class was an introduction to lists and list operations.  The in-lab activity involved writing a program to count the number of words in the *Gettysburg Address*.  The worksheet sheet (README file) and gettysburg.txt files are located in this directory.
 10/05/18 | `cw26` | *Liang* 6-9 and 6-10 (Variable Scope); *Liang* 10.1 and 10.2 (Introduction to Python Lists). Today's class was focused on variable scope using an information sheet and several code samples.  The information sheet (README file) and code samples are in this directory.
 10/03/18 | `cw25` | Today's class was focused on a self-assessment exercise using File I/O and looping.  All the required files (including a README file) are in this directory.
 10/02/18 | `cw24` | Today we introduced Programming Assignment 05 (Caesar Cipher) and spent time working on Programming Assignment 04 (Password Validator).  This directory is just a placeholder.
@@ -130,6 +127,7 @@ File Name | Description
 `pythonFormatting.pdf` | Reference sheet for formatted output in Python.
 `asciiChart.pdf` | ASCII Chart for the base (0 - 127) and extended (128 - 255) sets.
 `6wkExamReview.pdf` | Review packet for the 6-week exam.
+`stringsListsDictionaries.pdf` | A reference sheet describing how to apply the same operations to strings, lists and dictionaries.
 
 [Contents](#top)
 
