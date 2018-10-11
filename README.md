@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/09/18
+### Updated: 10/10/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	Back in NI227 on Wednesday, 10 Oct.  We'll wrap class a little early so we can get to Mahan Hall for the Microsoft CEO lecture.
+	Thursday EI will go as usual tomorrow (10/11/18) in NI227, starting at 1900.
 	
 - Readings<p>
 
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	None.
+	The directory `~/repo201/classwork/cw28` contains two programming exercises: the `/etc/passwd` scanner exercise and an exercise to analyze files containing floating point numbers.  There are README files contained in `cw28` that describe both activities.  Give them a try.
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/10/18 | `cw28` | This directory contains two programming exercises: the `/etc/passwd` scanner exercise we did in class and a separate exercise to analyze files containing floating point numbers.  There are README files contained here that describe both activities.  Give them a try.
 10/09/18 | `cw27` | *Liang* 10.1 and 10.2 (Introduction to Python Lists). Today's class was an introduction to lists and list operations.  The in-lab activity involved writing a program to count the number of words in the *Gettysburg Address*.  The worksheet sheet (README file) and gettysburg.txt files are located in this directory.
 10/05/18 | `cw26` | *Liang* 6-9 and 6-10 (Variable Scope); *Liang* 10.1 and 10.2 (Introduction to Python Lists). Today's class was focused on variable scope using an information sheet and several code samples.  The information sheet (README file) and code samples are in this directory.
 10/03/18 | `cw25` | Today's class was focused on a self-assessment exercise using File I/O and looping.  All the required files (including a README file) are in this directory.
