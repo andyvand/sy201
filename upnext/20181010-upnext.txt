@@ -1,0 +1,21 @@
+Reminders
+
+Thursday EI will go as usual tomorrow (10/11/18) in NI227, starting at 1900.
+
+Readings
+
+Liang 10.1 and 10.2 (Introduction to Python Lists).
+
+Assignments
+
+By 2359, on Tue 16 Oct, submit Programming Assignment 05 (pa05) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 05 are available in the
+repo201/programming/pa05 directory.
+
+Extra Activities
+
+The directory ~/repo201/classwork/cw28 contains two programming exercises: the
+/etc/passwd scanner exercise and an exercise to analyze files containing
+floating point numbers. There are README files contained in cw28 that describe
+both activities. Give them a try.
