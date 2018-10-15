@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/12/18
+### Updated: 10/15/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None.
+	Our 2-hr lab will run as scheduled tomorrow (10/16) in MI294.
 	
 - Readings<p>
 
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	The directory `~/repo201/classwork/cw28` contains two programming exercises: the `/etc/passwd` scanner exercise and an exercise to analyze files containing floating point numbers.  There are README files contained in `cw28` that describe both activities.  Give them a try.
+	None.
 
 <hr>
 
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/15/18 | `cw30` | Today we learned how to build and use custom, importable Python libraries. A README file is included in `cw30`.
 10/12/18 | `cw29` | Student's choice on in-class work.  Choose: (1) `/etc/passwd` scanner using lists; (2) floating point number analyzer or (3) `pa05`.  The files for the first two are in `~/repo201/classwork/cw28`. This directory is a placeholder.
 10/10/18 | `cw28` | This directory contains two programming exercises: the `/etc/passwd` scanner exercise we did in class and a separate exercise to analyze files containing floating point numbers.  There are README files contained here that describe both activities.  Give them a try.
 10/09/18 | `cw27` | *Liang* 10.1 and 10.2 (Introduction to Python Lists). Today's class was an introduction to lists and list operations.  The in-lab activity involved writing a program to count the number of words in the *Gettysburg Address*.  The worksheet sheet (README file) and gettysburg.txt files are located in this directory.
@@ -104,6 +105,7 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
+`pa06` | ATM | In this assignment you will create a program that simulates the operation of an Automated Teller Machine (ATM). This directory includes a .pdf of the assignment, the required data files, as well as an executable version of the finished program so you can see how it's supposed to operate and test your own code.
 `pa05` | Caesar Cipher | In this assignment you will create a program that encrypts and decrypts text files using a Caesar Cipher. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate and test your own code.
 `pa04` | Password Validation | In this assignment you will create a program that reads passwords from a file and determines if each one meets a minimum set of requirements for length and complexity.  The specifications for complexity are stored in a second (separate) file. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate and test your own code.
 `pa03` | Password Stretching | In this assignment you will create a program that performs password stretching; repeating a hashing algorithm a number of times to obfuscate a password. This directory includes a .pdf of the assignment, a .pdf of a high-level flowchart, and an executable version of the finished program so you can see how it's supposed to operate.
