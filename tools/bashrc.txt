@@ -1,7 +1,7 @@
 # Custom bashrc sdfsdfto make your experience in the class a little more
 # enjoyable. To install this file, copy it to: ~/.bashrc.
 
-# Don't add duplicate lines or lines starting with space in the history.
+# Don't addd duplicate lines or lines starting with space in the history.
 HISTCONTROL=ignoreboth
 
 # append to the history file, don't overwrite it
