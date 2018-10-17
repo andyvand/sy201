@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/16/18
+### Updated: 10/17/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	Back in NI227 tomorrow (10/17).
+	I will be out of town on Friday, 19 Oct.  Class will run as scheduled, with a substitute instructor.
 	
 - Readings<p>
 
@@ -47,13 +47,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By 2359, on Tue 16 Oct, submit Programming Assignment 05 (`pa05`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 05 are available in the `repo201/programming/pa05` directory.
-
 	By 2359, on Tue 06 Nov, submit Programming Assignment 06 (`pa06`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 06 are available in the `repo201/programming/pa06` directory.
 	
 - Extra Activities<p>
 
-	None.
+	Continue working on the `argv` exercise from `cw32`.
 
 <hr>
 
@@ -66,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/17/18 | `cw32` | Today was an introduction to processing command line arguments using Python's argument vector, `argv`.  This directory includes a README file for an in-class exercise, along with all the require files.
 10/16/18 | `cw31` | Today we introduced `pa06` and continued work on `pa05`. This directory is a placeholder.
 10/15/18 | `cw30` | Today we learned how to build and use custom, importable Python libraries. A README file is included in `cw30`.
 10/12/18 | `cw29` | Student's choice on in-class work.  Choose: (1) `/etc/passwd` scanner using lists; (2) floating point number analyzer or (3) `pa05`.  The files for the first two are in `~/repo201/classwork/cw28`. This directory is a placeholder.
