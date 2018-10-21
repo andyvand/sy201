@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/17/18
+### Updated: 10/19/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	I will be out of town on Friday, 19 Oct.  Class will run as scheduled, with a substitute instructor.
+	None.
 	
 - Readings<p>
 
-	None.
+	For Monday, 22 Oct, read *Liang* 14.6, p. 487-492.
 	
 - Assignments<p>
  
@@ -64,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/19/18 | `cw33` | This class was an introduction to Python dictionaries  This directory is a placeholder.
 10/17/18 | `cw32` | Today was an introduction to processing command line arguments using Python's argument vector, `argv`.  This directory includes a README file for an in-class exercise, along with all the require files.
 10/16/18 | `cw31` | Today we introduced `pa06` and continued work on `pa05`. This directory is a placeholder.
 10/15/18 | `cw30` | Today we learned how to build and use custom, importable Python libraries. A README file is included in `cw30`.
