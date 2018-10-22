@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None.
+	We're in our lab tomorrow (10/23) in MI294.
 	
 - Readings<p>
 
-	For Monday, 22 Oct, read *Liang* 14.6, p. 487-492.
+	*Liang* 14.6, p. 487-492.
 	
 - Assignments<p>
  
@@ -51,7 +51,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Extra Activities<p>
 
-	Continue working on the `argv` exercise from `cw32`.
+	None.
 
 <hr>
 
@@ -64,7 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-10/19/18 | `cw33` | This class was an introduction to Python dictionaries  This directory is a placeholder.
+10/19/18 | `cw33` | *Liang* 14.6 (pp. 487-492). This class was an introduction to Python dictionaries  This directory is a placeholder.
 10/17/18 | `cw32` | Today was an introduction to processing command line arguments using Python's argument vector, `argv`.  This directory includes a README file for an in-class exercise, along with all the require files.
 10/16/18 | `cw31` | Today we introduced `pa06` and continued work on `pa05`. This directory is a placeholder.
 10/15/18 | `cw30` | Today we learned how to build and use custom, importable Python libraries. A README file is included in `cw30`.
