@@ -1,0 +1,18 @@
+Reminders
+
+We're in our lab tomorrow (10/23) in MI294.
+
+Readings
+
+Liang 14.6, p. 487-492.
+
+Assignments
+
+By 2359, on Tue 06 Nov, submit Programming Assignment 06 (pa06) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 06 are available in the
+repo201/programming/pa06 directory.
+
+Extra Activities
+
+None.

@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/19/18
+### Updated: 10/23/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	We're in our lab tomorrow (10/23) in MI294.
+	Back in NI227 tomorrow (10/24).
 	
 - Readings<p>
 
-	*Liang* 14.6, p. 487-492.
+	None.
 	
 - Assignments<p>
  
@@ -55,15 +55,16 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 <hr>
 
-[Contents](#top)
-
 <a name="classwork"></a>
 #### *classwork*
+[Contents](#top)
 
 Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectories may be added for individual assignments.
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/23/18 | `cw35` | The files for the *Star Wars* plaintext steganography exercise are included in this directory. Today in Lab you chose one of the following activities: (1) Working on `pa06`, (2) working on the *Star Wars* plaintext steganography exercise, or (3) working on the Midshipman Lookup exercise from `cw34`.
+10/21/18 | `cw34` | The class included an in-class exercise on dictionaries.  This directory includes a README file for the exercise, as well as all the required support files and template code.
 10/19/18 | `cw33` | *Liang* 14.6 (pp. 487-492). This class was an introduction to Python dictionaries  This directory is a placeholder.
 10/17/18 | `cw32` | Today was an introduction to processing command line arguments using Python's argument vector, `argv`.  This directory includes a README file for an in-class exercise, along with all the require files.
 10/16/18 | `cw31` | Today we introduced `pa06` and continued work on `pa05`. This directory is a placeholder.
@@ -99,10 +100,9 @@ Class_Meeting | Name | Topic
 08/21/18 | `cw01` | VM Tuneup and introduction to the python3 environment. This directory contains the code for our in-class demos `hello.py` and `calc.py`
 08/20/18 | `cw00` | Welcome and Course Introduction.  My PowerPoint slides from the course introduction are available here.
 
-[Contents](#top)
-
 <a name="programming"></a>
 #### *programming*
+[Contents](#top)
 
 Handouts, stubbed code files, etc., used for your Programming Assignments.  Subdirectories will be added for individual assignments.
 
@@ -115,10 +115,9 @@ Directory_Name | Title | Topic
 `pa02` | Port Lookup | For this assignment, you'll develop a program that will allow the user to lookup information about a particular port number.  In addition to the techniques learned in `pa01`, this assignment gives you practice with nested conditionals.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 `pa01` | Calculations and Conversions | Your first programming assignment will introduce you to the Python environment.  You'll practice input, output and using arithmetic operators.  This directory includes a .pdf of the assignment, as well as an executable version of the finished program so you can see how it's supposed to operate.
 
-[Contents](#top)
-
 <a name="referenceLib"></a>
 #### *referenceLib*
+[Contents](#top)
 
 Library of references, documentation, and other resources.
 
@@ -136,10 +135,9 @@ File Name | Description
 `6wkExamReview.pdf` | Review packet for the 6-week exam.
 `stringsListsDictionaries.pdf` | A reference sheet describing how to apply the same operations to strings, lists and dictionaries.
 
-[Contents](#top)
-
 <a name="codeSamples"></a>
 #### *codeSamples*
+[Contents](#top)
 
 A collection of coding tips and demonstrations for various topics in Python.
 
@@ -148,10 +146,9 @@ Category | File Name | Description
 Documentation | `template.py` | This file provides the template you should use for documenting the code you write for assignments in this class.
 Flow | `tryexcept.py` | Demonstration of basic exception handling using `try-except` in Python.
 
-[Contents](#top)
-
 <a name="tools"></a>
 #### *tools*
+[Contents](#top)
 
 Tools, tips and other useful utilities for the course.
 
