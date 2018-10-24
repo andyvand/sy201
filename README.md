@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/23/18
+### Updated: 10/24/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,9 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	Back in NI227 tomorrow (10/24).
+	- The 12-week exam review study guide is now available in the `referenceLib` directory.
+	
+	- The 12-week exam will be held on Tuesday, 30 Oct, in MI294 during our regular Lab period.
 	
 - Readings<p>
 
@@ -63,8 +65,9 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-10/23/18 | `cw35` | The files for the *Star Wars* plaintext steganography exercise are included in this directory. Today in Lab you chose one of the following activities: (1) Working on `pa06`, (2) working on the *Star Wars* plaintext steganography exercise, or (3) working on the Midshipman Lookup exercise from `cw34`.
-10/21/18 | `cw34` | The class included an in-class exercise on dictionaries.  This directory includes a README file for the exercise, as well as all the required support files and template code.
+10/24/18 | `cw36` | Today we continued working on: (1) `pa06`, (2) the *Star Wars* plaintext steganography exercise, or (3) the Midshipman Lookup exercise from `cw34`.  The 12-week exam review guide has also been posted to the `referenceLib` directory.  This directory is a placeholder.
+10/23/18 | `cw35` | The files for the *Star Wars* plaintext steganography exercise are included in this directory. Today in Lab you chose one of the following activities: (1) working on `pa06`, (2) working on the *Star Wars* plaintext steganography exercise, or (3) working on the Midshipman Lookup exercise from `cw34`.
+10/22/18 | `cw34` | This was an in-class exercise on dictionaries.  We created a tool to lookup a Midshipman by alpha code.  This directory includes a README file for the exercise, as well as all the required support files and template code.
 10/19/18 | `cw33` | *Liang* 14.6 (pp. 487-492). This class was an introduction to Python dictionaries  This directory is a placeholder.
 10/17/18 | `cw32` | Today was an introduction to processing command line arguments using Python's argument vector, `argv`.  This directory includes a README file for an in-class exercise, along with all the require files.
 10/16/18 | `cw31` | Today we introduced `pa06` and continued work on `pa05`. This directory is a placeholder.
@@ -132,8 +135,9 @@ File Name | Description
 `asymmetric_encryption.pdf` | An overview of Public Key Encryption and Certificate Signing.
 `pythonFormatting.pdf` | Reference sheet for formatted output in Python.
 `asciiChart.pdf` | ASCII Chart for the base (0 - 127) and extended (128 - 255) sets.
-`6wkExamReview.pdf` | Review packet for the 6-week exam.
 `stringsListsDictionaries.pdf` | A reference sheet describing how to apply the same operations to strings, lists and dictionaries.
+`6wkExamReview.pdf` | Review packet for the 6-week exam.
+`12wkExamReview.pdf` | Review packet for the 12-week exam.
 
 <a name="codeSamples"></a>
 #### *codeSamples*
