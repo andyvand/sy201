@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/24/18
+### Updated: 10/26/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,8 +39,8 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
+	- There will be a 12-week exam review session on Sunday night, 28 Oct, starting at 2000 in NI227.
 	- The 12-week exam review study guide is now available in the `referenceLib` directory.
-	
 	- The 12-week exam will be held on Tuesday, 30 Oct, in MI294 during our regular Lab period.
 	
 - Readings<p>
@@ -65,6 +65,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/26/18 | `cw37` | Today was a 12-week exam review and work on `pa06`.  This directory is a placeholder.
 10/24/18 | `cw36` | Today we continued working on: (1) `pa06`, (2) the *Star Wars* plaintext steganography exercise, or (3) the Midshipman Lookup exercise from `cw34`.  The 12-week exam review guide has also been posted to the `referenceLib` directory.  This directory is a placeholder.
 10/23/18 | `cw35` | The files for the *Star Wars* plaintext steganography exercise are included in this directory. Today in Lab you chose one of the following activities: (1) working on `pa06`, (2) working on the *Star Wars* plaintext steganography exercise, or (3) working on the Midshipman Lookup exercise from `cw34`.
 10/22/18 | `cw34` | This was an in-class exercise on dictionaries.  We created a tool to lookup a Midshipman by alpha code.  This directory includes a README file for the exercise, as well as all the required support files and template code.
@@ -158,7 +159,7 @@ Tools, tips and other useful utilities for the course.
 
 Tool_Name | Purpose
 :---------| :------
-`utils` | This is a directory you can use as a template to create your own custom Python library functions.  The included filed (`__init__.py`) must remain in the directory when you use it.  Copy the directory to a location of your choosing using: `cp -R ~/repo201/tools/utils .` (where "`.`" is your current working directory).
+`utils` | This is a directory you can use as a template to create your own custom Python library functions.  The included file (`__init__.py`) must remain in the directory when you use it.  Copy the directory to a location of your choosing using: `cp -R ~/repo201/tools/utils .` (where "`.`" is your current working directory).
 `bashrc.txt` | This bashrc file tunes up the look and behavior of your Linux terminal windows.  To install it, open a terminal window and type: <font face="Courier New"><h4>cp ~/repo201/tools/bashrc.txt ~/.bashrc</h4></font> If you receive a message asking to overwrite the existing `.bashrc` file, type "y", followed by return. Close and reopen any existing terminal windows and the changes will take effect.
 
 [Contents](#top)
