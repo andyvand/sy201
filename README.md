@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/26/18
+### Updated: 10/29/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,6 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	- There will be a 12-week exam review session on Sunday night, 28 Oct, starting at 2000 in NI227.
 	- The 12-week exam review study guide is now available in the `referenceLib` directory.
 	- The 12-week exam will be held on Tuesday, 30 Oct, in MI294 during our regular Lab period.
 	
@@ -65,6 +64,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/29/18 | `cw38` | Last day of the 12-week exam review.  This directory contains some sample code which demonstrates muitablity and immutability when working with function parameters.
 10/26/18 | `cw37` | Today was a 12-week exam review and work on `pa06`.  This directory is a placeholder.
 10/24/18 | `cw36` | Today we continued working on: (1) `pa06`, (2) the *Star Wars* plaintext steganography exercise, or (3) the Midshipman Lookup exercise from `cw34`.  The 12-week exam review guide has also been posted to the `referenceLib` directory.  This directory is a placeholder.
 10/23/18 | `cw35` | The files for the *Star Wars* plaintext steganography exercise are included in this directory. Today in Lab you chose one of the following activities: (1) working on `pa06`, (2) working on the *Star Wars* plaintext steganography exercise, or (3) working on the Midshipman Lookup exercise from `cw34`.
