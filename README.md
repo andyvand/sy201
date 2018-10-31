@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 10/30/18
+### Updated: 10/31/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,11 +39,11 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None.
+	EI will run, as scheduled, tomorrow (11/01) starting at 1900 in NI227.
 		
 - Readings<p>
 
-	None.
+	*Liang*, section 14.3, pp. 479-485.
 	
 - Assignments<p>
  
@@ -63,6 +63,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+10/31/18 | `cw40` | Today was an introduction to sets.  This directory includes a README file for an in-class exercise, along with all the require files.
 10/30/18 | `cw39` | 12-week exam day. This directory is a placeholder.
 10/29/18 | `cw38` | Last day of the 12-week exam review.  This directory contains some sample code which demonstrates muitablity and immutability when working with function parameters.
 10/26/18 | `cw37` | Today was a 12-week exam review and work on `pa06`.  This directory is a placeholder.

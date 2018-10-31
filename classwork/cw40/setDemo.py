@@ -96,10 +96,11 @@
 # print(s1 - s2)
 #----------------------------------------------------------------------
 
-# What about accessing individual items in a list?  What does this code do?
-
+# What about accessing individual items in a set?  What does this code do?
+#----------------------------------------------------------------------
 # s1 = {1,3,4}
 # print(s1[0])
+#----------------------------------------------------------------------
 
 # What if we want to remove a specific item from a set?  Can we test for
 # membership, then use "remove()"?
@@ -114,4 +115,3 @@
 # else:
 #    print("{0:d} Not found in set".format(n))
 #----------------------------------------------------------------------
-
