@@ -1,0 +1,18 @@
+Reminders
+
+EI will run, as scheduled, tomorrow (11/01) starting at 1900 in NI227.
+
+Readings
+
+Liang, section 14.3, pp. 479-485.
+
+Assignments
+
+By 2359, on Tue 06 Nov, submit Programming Assignment 06 (pa06) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 06 are available in the
+repo201/programming/pa06 directory.
+
+Extra Activities
+
+None.
