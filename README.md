@@ -43,7 +43,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 		
 - Readings<p>
 
-	*Liang*, section 14.3, pp. 479-485.
+	None.
 	
 - Assignments<p>
  
@@ -63,6 +63,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+11/05/18 | `cw42` | Turn back and review of the 12-week exam. This directory is a placeholder.
 11/02/18 | `cw41` | This was an in-class exercise on parsing and gathering statistics on Apache webserver logs.  This directory includes a README file for the exercise, as well as all the required support files and an executable version of the assignment.
 10/31/18 | `cw40` | *Liang* 14.3 (pp. 479-485). Today was an introduction to sets.  This directory includes a README file for an in-class exercise, along with all the require files.
 10/30/18 | `cw39` | 12-week exam day. This directory is a placeholder.
@@ -114,6 +115,7 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
+`pa07` | ATM Part Deux | In this assignment you will modify the ATM you built for `pa06`, this time using a Python dictionary. This directory includes a .pdf of the assignment, the required data files, as well as an executable version of the finished program so you can see how it's supposed to operate and test your own code.
 `pa06` | ATM | In this assignment you will create a program that simulates the operation of an Automated Teller Machine (ATM). This directory includes a .pdf of the assignment, the required data files, as well as an executable version of the finished program so you can see how it's supposed to operate and test your own code.
 `pa05` | Caesar Cipher | In this assignment you will create a program that encrypts and decrypts text files using a Caesar Cipher. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate and test your own code.
 `pa04` | Password Validation | In this assignment you will create a program that reads passwords from a file and determines if each one meets a minimum set of requirements for length and complexity.  The specifications for complexity are stored in a second (separate) file. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate and test your own code.
