@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 11/02/18
+### Updated: 11/05/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -48,6 +48,8 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 - Assignments<p>
  
 	By 2359, on Tue 06 Nov, submit Programming Assignment 06 (`pa06`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 06 are available in the `repo201/programming/pa06` directory.
+
+	By 2359, on Tue 13 Nov, submit Programming Assignment 07 (`pa07`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 07 are available in the `repo201/programming/pa07` directory.
 	
 - Extra Activities<p>
 
