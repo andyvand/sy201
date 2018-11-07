@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 11/06/18
+### Updated: 11/07/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	None.
+	EI will run, as usual, on Thursday (11/08) at 1900 in NI227.  Please come with any questions you have about `pa06` so you can set yourself up well for `pa07`.
 		
 - Readings<p>
 
@@ -47,8 +47,6 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By 2359, on Tue 06 Nov, submit Programming Assignment 06 (`pa06`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 06 are available in the `repo201/programming/pa06` directory.
-
 	By 2359, on Tue 13 Nov, submit Programming Assignment 07 (`pa07`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 07 are available in the `repo201/programming/pa07` directory.
 	
 - Extra Activities<p>
@@ -65,7 +63,8 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
-11/06/18 | `cw43` | *Liang* Ch. 7, pp 216-237.  Today was an introduction to Python classes.  This directory includes PowerPoint slides and sample code files.
+11/07/18 | `cw44` | Today's class was about private properties in classes and *setters* and *getters*.  This directory includes a README file with an in-class exercise.
+11/06/18 | `cw43` | *Liang* Ch. 7, pp 216-237.  Today was an introduction to Python classes.  This directory includes a README file with my PowerPoint slides, as well as sample code files.
 11/05/18 | `cw42` | Turn back and review of the 12-week exam. This directory is a placeholder.
 11/02/18 | `cw41` | This was an in-class exercise on parsing and gathering statistics on Apache webserver logs.  This directory includes a README file for the exercise, as well as all the required support files and an executable version of the assignment.
 10/31/18 | `cw40` | *Liang* 14.3 (pp. 479-485). Today was an introduction to sets.  This directory includes a README file for an in-class exercise, along with all the require files.
