@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 11/05/18
+### Updated: 11/06/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -43,7 +43,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 		
 - Readings<p>
 
-	None.
+	*Liang* Ch. 7, pp 216-237.
 	
 - Assignments<p>
  
@@ -65,6 +65,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+11/06/18 | `cw43` | *Liang* Ch. 7, pp 216-237.  Today was an introduction to Python classes.  This directory includes PowerPoint slides and sample code files.
 11/05/18 | `cw42` | Turn back and review of the 12-week exam. This directory is a placeholder.
 11/02/18 | `cw41` | This was an in-class exercise on parsing and gathering statistics on Apache webserver logs.  This directory includes a README file for the exercise, as well as all the required support files and an executable version of the assignment.
 10/31/18 | `cw40` | *Liang* 14.3 (pp. 479-485). Today was an introduction to sets.  This directory includes a README file for an in-class exercise, along with all the require files.

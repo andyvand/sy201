@@ -15,7 +15,7 @@
 # class Midshipman:
 #    def __init__(self,alphaCode,companyNumber):
 #       self.alpha = alphaCode
-#       self.company = companyNumberalpha
+#       self.company = companyNumber
 # 
 # mid1 = Midshipman(211234,13)
 # mid2 = Midshipman(219999,8)
