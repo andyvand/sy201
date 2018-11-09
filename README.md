@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 11/07/18
+### Updated: 11/09/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	EI will run, as usual, on Thursday (11/08) at 1900 in NI227.  Please come with any questions you have about `pa06` so you can set yourself up well for `pa07`.
+	If you're interested in re-doing `pa06` for a possibly better grade, read the pdf named `pa06SecondOffer.pdf` (located in the `pa06` directory of the repo) for instructions.
 		
 - Readings<p>
 
@@ -63,6 +63,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+11/09/18 | `cw45` | Today we continued our discussion of private properties in classes.  I also introduced an offer to improve your `pa06` grade if your want to pursue it.  Instructions can be found in `~/repo201/programmming/pa06/pa06SecondOffer.pdf`.  This directory includes a README file with an in-class exercise.
 11/07/18 | `cw44` | Today's class was about private properties in classes and *setters* and *getters*.  This directory includes a README file with an in-class exercise.
 11/06/18 | `cw43` | *Liang* Ch. 7, pp 216-237.  Today was an introduction to Python classes.  This directory includes a README file with my PowerPoint slides, as well as sample code files.
 11/05/18 | `cw42` | Turn back and review of the 12-week exam. This directory is a placeholder.

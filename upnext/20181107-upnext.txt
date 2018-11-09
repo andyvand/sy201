@@ -1,0 +1,19 @@
+Reminders
+
+EI will run, as usual, on Thursday (11/08) at 1900 in NI227. Please come with
+any questions you have about pa06 so you can set yourself up well for pa07.
+
+Readings
+
+Liang Ch. 7, pp 216-237.
+
+Assignments
+
+By 2359, on Tue 13 Nov, submit Programming Assignment 07 (pa07) into the
+Submitted Work folder in tcourt in accordance with your instructor's directions.
+The materials for Programming Assignment 07 are available in the
+repo201/programming/pa07 directory.
+
+Extra Activities
+
+None.
