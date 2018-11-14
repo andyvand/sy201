@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 11/13/18
+### Updated: 11/14/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -47,7 +47,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 	
 - Assignments<p>
  
-	By 2359, on Tue 13 Nov, submit Programming Assignment 07 (`pa07`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 07 are available in the `repo201/programming/pa07` directory.
+	By 2359, on Monday 26 Nov, submit Programming Assignment 08 (`pa08`) into the Submitted Work folder in *tcourt* in accordance with your instructor's directions.  The materials for Programming Assignment 08 are available in the `repo201/programming/pa08` directory.
 	
 - Extra Activities<p>
 
@@ -63,6 +63,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+11/14/18 | `cw47` | Today we launched `pa08` (Programming using Classes).  We also worked on an in-class exercise that will greatly assist you with `pa08`.  A README file for the exercise and all the required coding files are included in this directory.
 11/13/18 | `cw46` | Today we continued our discussion of classes and worked on pa07.  This directory is a placeholder.
 11/09/18 | `cw45` | Today we continued our discussion of private properties in classes.  I also introduced an offer to improve your `pa06` grade if your want to pursue it.  Instructions can be found in `~/repo201/programmming/pa06/pa06SecondOffer.pdf`.  This directory includes a README file with an in-class exercise.
 11/07/18 | `cw44` | Today's class was about private properties in classes and *setters* and *getters*.  This directory includes a README file with an in-class exercise.
