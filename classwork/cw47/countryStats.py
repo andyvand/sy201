@@ -20,7 +20,9 @@ def main():
    # to uppercase. When searching through your dictionary, compare the uppercase
    # version of the first letter of each country to the uppercase letter entered
    # by the user.  If they match, print that country's name, along with its
-   # data.
+   # data.  Access the fields in each Country object in your dictionary by using
+   # the Country class getter methods.
+   
    while True:
       letter = input("Enter a letter: ")
       
@@ -30,7 +32,7 @@ def main():
       else:
          # Got a valid letter, so lookup country data.
 
-         # Here's how iterate across a sorted list of dictionary keys
+         # Here's how to iterate across a sorted list of dictionary keys
          for key in sorted(D.keys()):
             
             # Your code goes here....
