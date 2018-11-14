@@ -23,7 +23,7 @@ You're all set! Whenever you want to update your repository, just change to it a
 ----
 
 <a name="top"></a>
-### Updated: 11/09/18
+### Updated: 11/13/18
 See the commit logs for a complete list of changes.
 
 ### Contents:
@@ -39,7 +39,7 @@ Upcoming Reminders, Readings, Assignments and Extra Activities.  The most-recent
 
 - Reminders<p>
 
-	If you're interested in re-doing `pa06` for a possibly better grade, read the pdf named `pa06SecondOffer.pdf` (located in the `pa06` directory of the repo) for instructions.
+	None.
 		
 - Readings<p>
 
@@ -63,6 +63,7 @@ Handouts, stubbed code files, etc., used for in-class assignments.  Subdirectori
 
 Class_Meeting | Name | Topic  
 :-------------|:-----|:-------------
+11/13/18 | `cw46` | Today we continued our discussion of classes and worked on pa07.  This directory is a placeholder.
 11/09/18 | `cw45` | Today we continued our discussion of private properties in classes.  I also introduced an offer to improve your `pa06` grade if your want to pursue it.  Instructions can be found in `~/repo201/programmming/pa06/pa06SecondOffer.pdf`.  This directory includes a README file with an in-class exercise.
 11/07/18 | `cw44` | Today's class was about private properties in classes and *setters* and *getters*.  This directory includes a README file with an in-class exercise.
 11/06/18 | `cw43` | *Liang* Ch. 7, pp 216-237.  Today was an introduction to Python classes.  This directory includes a README file with my PowerPoint slides, as well as sample code files.
@@ -118,6 +119,7 @@ Handouts, stubbed code files, etc., used for your Programming Assignments.  Subd
 
 Directory_Name | Title | Topic  
 :--------------|:------|:-------------
+`pa08` | Host Analyzer | In this assignment you will build a host file analyzer based on classes. This directory includes a .pdf of the assignment, the required data files, as well as an executable version of the finished program so you can see how it's supposed to operate and test your own code.
 `pa07` | ATM Part Deux | In this assignment you will modify the ATM you built for `pa06`, this time using a Python dictionary. This directory includes a .pdf of the assignment, the required data files, as well as an executable version of the finished program so you can see how it's supposed to operate and test your own code.
 `pa06` | ATM | In this assignment you will create a program that simulates the operation of an Automated Teller Machine (ATM). This directory includes a .pdf of the assignment, the required data files, as well as an executable version of the finished program so you can see how it's supposed to operate and test your own code.
 `pa05` | Caesar Cipher | In this assignment you will create a program that encrypts and decrypts text files using a Caesar Cipher. This directory includes a .pdf of the assignment, as well as an executable version of the finished program and several test files so you can see how it's supposed to operate and test your own code.
